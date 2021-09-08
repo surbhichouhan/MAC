@@ -1,2 +1,2 @@
-# MAC
-My Awesome Cart site
+# shopping site
+ This is a shopping site
